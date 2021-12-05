@@ -1,3 +1,6 @@
-name: Roman
-age: 28
-Salary: 1000
+{
+	"name": "Roman"
+	"age": 28
+	"salary": 1000 
+	}
+
